@@ -1,9 +1,9 @@
 ### OFY Wellness Android App | Java | [View ↗️ ](https://github.com/PrathameshBhagat/Documentation-Project/) |  [Youtube ↗️](https://youtu.be/KeUw_8UkWuI?feature=shared)  
-<img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/0f777aff-7e51-4db3-9ee9-4eec2d6613ce" style="height:35vw;width:15vw">
-<img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/6d6e6cd3-d65f-4385-a474-e6c6b9785c1c" style="height:35vw;width:15vw">
-<img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/4ff5f01f-96ad-4c57-8e92-5f413a13ec1d" style="height:35vw;width:15vw">
-<img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/77e69c18-32f0-4913-9ea0-0936d2744d54" style="height:35vw;width:15vw">
-<img src="https://github.com/user-attachments/assets/10adaad7-92c5-4846-9486-1b9bfe5757ef" style="height:35vw;width:15vw">
+<img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/0f777aff-7e51-4db3-9ee9-4eec2d6613ce" style="height:35vw;width:10vw">
+<img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/6d6e6cd3-d65f-4385-a474-e6c6b9785c1c" style="height:35vw;width:10vw">
+<img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/4ff5f01f-96ad-4c57-8e92-5f413a13ec1d" style="height:35vw;width:10vw">
+<img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/77e69c18-32f0-4913-9ea0-0936d2744d54" style="height:35vw;width:10vw">
+<img src="https://github.com/user-attachments/assets/10adaad7-92c5-4846-9486-1b9bfe5757ef" style="height:35vw;width:10vw">
 
 ### Hindi4All: brand new programming language | J.S. & PHP | [View ↗️ ](https://github.com/PrathameshBhagat/Documentation-Project/) |  [Youtube ↗️](https://www.youtube.com/watch?v=OoUNVvhEFZg)  
 ![Screenshot (53)](https://github.com/PrathameshBhagat/Documentation-Project/assets/90595097/beefd877-98ea-4171-ae5a-60db183096fa)
