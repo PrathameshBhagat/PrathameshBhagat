@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 ### OFY Wellness Android App | Java | [View ↗️ ](https://github.com/PrathameshBhagat/Documentation-Project/) |  [Youtube ↗️](https://youtu.be/KeUw_8UkWuI?feature=shared)
-Comming soon on Google Play Store  
+(Comming soon on Google Play Store)  
   
 <img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/0f777aff-7e51-4db3-9ee9-4eec2d6613ce" style="height:35vw;width:13vw">
 <img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/6d6e6cd3-d65f-4385-a474-e6c6b9785c1c" style="height:35vw;width:13vw">
