@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-### OFY Wellness Android App | Java | [View ↗️ ](https://github.com/PrathameshBhagat/OFY-Wellness) |  [Youtube ↗️](https://youtu.be/KeUw_8UkWuI?feature=shared)| [<img src="https://github.com/user-attachments/assets/ae8eac81-5401-4208-8e7c-17c9b2104f7e" style="height:25px;width:25px">](https://wa.me/917058031648?text=Hey!%20I%20would%20like%20to%20register%20for%20the%20pre-release%20of%20OFY%20Wellness%20App.)
+### OFY Wellness Android App | Java | [View ↗️ ](https://github.com/PrathameshBhagat/OFY-Wellness) |  [Youtube ↗️](https://youtu.be/KeUw_8UkWuI?feature=shared)| [<img src="https://github.com/user-attachments/assets/ae8eac81-5401-4208-8e7c-17c9b2104f7e" style="height:20px;width:20px">](https://wa.me/917058031648?text=Hey!%20I%20would%20like%20to%20register%20for%20the%20pre-release%20of%20OFY%20Wellness%20App.)
 <img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/0f777aff-7e51-4db3-9ee9-4eec2d6613ce" style="height:35vw;width:13vw">
 <img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/6d6e6cd3-d65f-4385-a474-e6c6b9785c1c" style="height:35vw;width:13vw">
 <img src="https://github.com/PrathameshBhagat/OFY-Wellness/assets/90595097/4ff5f01f-96ad-4c57-8e92-5f413a13ec1d" style="height:35vw;width:13vw">
