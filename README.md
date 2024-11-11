@@ -12,8 +12,7 @@
 ![Screenshot (56)](https://github.com/PrathameshBhagat/Documentation-Project/assets/90595097/c529c72b-02d3-4d53-899c-a8eacf2837b4)
 
 ### Leetcode Profile | [View ↗️ ](https://leetcode.com/u/Prathamesh_Bhagat/)
-![image](https://github.com/user-attachments/assets/b65426f8-56fb-4df6-a189-b5f96f31ce9c)
-
+<img src="https://github.com/user-attachments/assets/b65426f8-56fb-4df6-a189-b5f96f31ce9c" style="height:35vw;width:99%">
 
 ### Spring Boot Revenue converter | Java | [View ↗️ ](https://github.com/PrathameshBhagat/Spring-Earning-Revenue-Converter)  
 ![Spring_Boot_Revenue_Converter](https://github.com/PrathameshBhagat/Spring-Earning-Revenue-Converter/assets/90595097/d81c4d31-ce84-4383-a17d-6549c47a5c29)
