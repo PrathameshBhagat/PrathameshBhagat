@@ -20,6 +20,9 @@
 ### Drone | J.S. & C++ | [View ↗️ ](https://github.com/PrathameshBhagat/Drone-Branches-Project)  
 https://github.com/PrathameshBhagat/Drone-Branches-Project/assets/90595097/4626cd12-0045-4e3d-8046-53edd3de42e9
 
+### Resume | [View ↗️ ](https://github.com/PrathameshBhagat/Resume/blob/main/Prathamesh_Bhagat_BTech_Resume.pdf)  
+<img src="https://github.com/user-attachments/assets/0f0eba6d-0e54-44c1-af32-002f93655d1e" style="height:30vw;width:99%">
+
 ## Contact    
 **Name:**&emsp; &emsp; Prathamesh Bhagat  
 **Phone:**&emsp; &emsp; +91 705-803-1648  
