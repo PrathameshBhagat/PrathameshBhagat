@@ -12,7 +12,7 @@
 ![Screenshot (56)](https://github.com/PrathameshBhagat/Documentation-Project/assets/90595097/c529c72b-02d3-4d53-899c-a8eacf2837b4)
 
 ### Leetcode Profile <img src="https://github.com/user-attachments/assets/cf53f9fb-d45a-42f3-9adb-b3ebb3b13ac3" style="height:18px;width:18px"> | [View ↗️ ](https://leetcode.com/u/Prathamesh_Bhagat/)
-<img src="https://github.com/user-attachments/assets/e2eff0c4-d689-4d6f-afd8-d7cea901c545" style="height:35vw;width:99%">
+<img src="https://github.com/user-attachments/assets/c070599c-f2e8-48dc-8494-ebf34ad4101f" style="height:35vw;width:99%">
 
 ### Spring Boot Revenue converter | Java | [View ↗️ ](https://github.com/PrathameshBhagat/Spring-Earning-Revenue-Converter)  
 ![Spring_Boot_Revenue_Converter](https://github.com/PrathameshBhagat/Spring-Earning-Revenue-Converter/assets/90595097/d81c4d31-ce84-4383-a17d-6549c47a5c29)
